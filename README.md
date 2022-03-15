@@ -1,8 +1,8 @@
 # Computacion-Cuantica-en-Vlang
-# traduccion de Curso computación cuántica. T6 - Modelización Java.
-# https://www.youtube.com/watch?v=UkGkToVryDQ
-# geneXCodeNow
-# $ v run qc19.v
+traduccion de Curso computación cuántica. T6 - Modelización Java.
+https://www.youtube.com/watch?v=UkGkToVryDQ
+geneXCodeNow
+$ v run qc19.v
 
 ************************************************************************************************************************
 **  1 qbit state |0>  **************************************************************************************************
