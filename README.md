@@ -1,1 +1,1 @@
-# Computaci-n-Cu-ntica-en-Vlang
+# Computacion-Cuantica-en-Vlang
