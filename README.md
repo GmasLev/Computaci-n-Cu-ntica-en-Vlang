@@ -1,7 +1,7 @@
 # Computacion-Cuantica-en-Vlang
-
-
-
+# traduccion de Curso computación cuántica. T6 - Modelización Java.
+# https://www.youtube.com/watch?v=UkGkToVryDQ
+# geneXCodeNow
 # $ v run qc19.v
 
 ************************************************************************************************************************
@@ -10,8 +10,8 @@
  Row: 0 ->  1.e+00 prob: 1.
  Total prob = 1.
 
- > --- Measures ----------------- q = 1000 
-   0 -> 1000 - 100 % 
+ > --- Measures ----------------- q = 1000
+ > 0 -> 1000 - 100 % 
    ------------------------------ 
   
 
